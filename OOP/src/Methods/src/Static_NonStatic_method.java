@@ -8,11 +8,17 @@ class Test1{
 }
 
 public class Static_NonStatic_method {
+
+    static void set(){
+       System.out.println("static method within same class");
+    }
     public static void main(String[] args) {
 
 
         Test1 t1 = new Test1();
         Test1.get();  //methode is static so we required class to call
         t1.set1();
+
+        set();  //methode  is within a same class so we do not required any class or obiect to call
     }
 }
