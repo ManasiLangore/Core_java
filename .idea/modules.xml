@@ -3,13 +3,13 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Basics_java/Basics_java.iml" filepath="$PROJECT_DIR$/Basics_java/Basics_java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP/Class_Object/Class_Object.iml" filepath="$PROJECT_DIR$/OOP/Class_Object/Class_Object.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/src/Class_Object/Class_Object.iml" filepath="$PROJECT_DIR$/OOP/src/Class_Object/Class_Object.iml" />
       <module fileurl="file://$PROJECT_DIR$/Core_Java.iml" filepath="$PROJECT_DIR$/Core_Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Basics_java/Loops/Loops.iml" filepath="$PROJECT_DIR$/Basics_java/Loops/Loops.iml" />
-      <module fileurl="file://$PROJECT_DIR$/OOP/Methods/Methods.iml" filepath="$PROJECT_DIR$/OOP/Methods/Methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics_java/src/Loops/Loops.iml" filepath="$PROJECT_DIR$/Basics_java/src/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/OOP/src/Methods/Methods.iml" filepath="$PROJECT_DIR$/OOP/src/Methods/Methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/OOP/OOP.iml" filepath="$PROJECT_DIR$/OOP/OOP.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Basics_java/Operators/Operators.iml" filepath="$PROJECT_DIR$/Basics_java/Operators/Operators.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Basics_java/Practice_Basics_java/Practice_Basics_java.iml" filepath="$PROJECT_DIR$/Basics_java/Practice_Basics_java/Practice_Basics_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics_java/src/Operators/Operators.iml" filepath="$PROJECT_DIR$/Basics_java/src/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Basics_java/src/Practice_Basics_java/Practice_Basics_java.iml" filepath="$PROJECT_DIR$/Basics_java/src/Practice_Basics_java/Practice_Basics_java.iml" />
     </modules>
   </component>
 </project>
