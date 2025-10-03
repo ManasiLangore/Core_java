@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Core_Java.iml" filepath="$PROJECT_DIR$/Core_Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Basics_java/src/Loops/Loops.iml" filepath="$PROJECT_DIR$/Basics_java/src/Loops/Loops.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Basics_java/src/Operators/Operators.iml" filepath="$PROJECT_DIR$/Basics_java/src/Operators/Operators.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Basics_java/src/Practice_Basics_java/Practice_Basics_java.iml" filepath="$PROJECT_DIR$/Basics_java/src/Practice_Basics_java/Practice_Basics_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Basics_java/src/Loops/Loops.iml" filepath="$PROJECT_DIR$/src/Basics_java/src/Loops/Loops.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Basics_java/src/Operators/Operators.iml" filepath="$PROJECT_DIR$/src/Basics_java/src/Operators/Operators.iml" />
+      <module fileurl="file://$PROJECT_DIR$/src/Basics_java/src/Practice_Basics_java/Practice_Basics_java.iml" filepath="$PROJECT_DIR$/src/Basics_java/src/Practice_Basics_java/Practice_Basics_java.iml" />
     </modules>
   </component>
 </project>
