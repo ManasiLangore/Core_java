@@ -127,6 +127,7 @@ public class Main {
         PayrollSystem payrollSystem = new PayrollSystem();
         // Create Employee objects
         FullTimeEmployee F_emp1 = new FullTimeEmployee("Manasi",101,90000);
+        FullTimeEmployee F_emp2 = new FullTimeEmployee("Priya", 102,50000);
         PartTimeEmployee P_emp1 = new PartTimeEmployee("Shruti",201,40,100);
 
         //adding employee
