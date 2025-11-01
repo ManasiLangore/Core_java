@@ -19,7 +19,7 @@ public class Remove_Element {
         }
 
         //search the element if present then remove that element
-        int[] arr = {12, 34,56,78,89};
+        int[] arr = {12, 34,56,78,89,58,78};
 
         int search =12;
         int count = 0;
