@@ -1,4 +1,4 @@
-package Array;
+package Array.Basic;
 
 public class Remove_Element {
     public static void main(String[] args) {

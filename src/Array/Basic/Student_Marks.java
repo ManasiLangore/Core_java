@@ -1,4 +1,4 @@
-package Array;
+package Array.Basic;
 import java.util.Scanner;
 public class Student_Marks {
 

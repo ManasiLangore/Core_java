@@ -1,5 +1,5 @@
-package Array;
-import java.util.*;
+package Array.Duplicate_Move_Pairs;
+
 public class Duplicate_Remove {
     public static void main(String[] args){
         //remove duplicate=> first way
