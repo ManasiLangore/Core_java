@@ -1,6 +1,4 @@
-package Array;
-
-import java.sql.SQLOutput;
+package Array.Basic;
 
 public class Search {
     public static void main(String[] args) {

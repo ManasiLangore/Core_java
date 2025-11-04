@@ -1,4 +1,4 @@
-package Array;
+package Array.Duplicate_Move_Pairs;
 
 public class Move_Element {
     public static void main(String[] args) {
