@@ -34,8 +34,8 @@ public class String_Methods {
         String s4 = new String("Manasi");
         System.out.println(s1==s4); //false (there memory address is different|
                                              // == ->check memory address)
-        System.out.println(s1.equals(s4));//true (this methode only choose content in the stirng|
-                                                  // equals -> check content of the string)
+        System.out.println(s1.equals(s4));//true (this methode only check content in the String|
+                                                  // .equals() -> check content of the string)
 
         //5)to get individual character of a string
         System.out.println("To find Individual char of string");

@@ -29,5 +29,14 @@ public class Conversion {
         for(int i=0; i<c.length; i++){
             System.out.println(c[i]);
         }
+        //shortcut[.toCharArray()]
+        String s3 = "abcd";
+        System.out.println(s3);
+        char ch3[] = s3.toCharArray();
+        System.out.println("Char array");
+        for(int i=0; i<ch3.length; i++){
+            System.out.println(ch3[i]);
+        }
+
     }
 }
