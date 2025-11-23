@@ -57,7 +57,29 @@ public class Tasks {
                 ch2[i] = 'z';
             }
         }
-        System.out.println(ch2);
+        System.out.println(ch2);//abzd
+
+        String s4="abcd";
+        for(int i=0;i<s4.length();i++) {
+            System.out.println(s4.charAt(i)+""+s4.charAt(i));
+        }//output =>
+        // aa
+        //bb
+        //cc
+        //dd
+
+        //passing data to another string
+        String s5 = "Manasi";
+        String s6 = "";
+        for(int i=0; i<s5.length(); i++){
+//            System.out.println(s5.charAt(i)+""+s5.charAt(i));
+            s6 = s6 + s5.charAt(i)+""+s5.charAt(i);
+        }
+        System.out.println(s6);//MMaannaassii
+
+
+
+
 
 
     }
