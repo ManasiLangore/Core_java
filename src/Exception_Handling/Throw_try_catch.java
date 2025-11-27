@@ -1,4 +1,4 @@
-package Exception_Handling.Throw;
+package Exception_Handling;
 
 public class Throw_try_catch {
     public static void main(String[] args){
@@ -16,7 +16,7 @@ public class Throw_try_catch {
             throw new ArrayIndexOutOfBoundsException(arr[4]);
             //if index = 4
             //Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: Index 4 out of bounds for length 3
-            //	at Exception_Handling.Throw.Throw_try_catch.main(Throw_try_catch.java:16)
+            //	at Exception_Handling.Throw_try_catch.main(Throw_try_catch.java:16)
         }
         else{
             System.out.println(arr[index]);//3 (index=2)

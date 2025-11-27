@@ -1,4 +1,4 @@
-package Exception_Handling.Throw;
+package Exception_Handling;
 
 public class Throw {
     static void checkAge(int age){
@@ -16,8 +16,8 @@ public class Throw {
 
          checkAge(15);
          //Exception in thread "main" java.lang.ArithmeticException: Access Denied
-        //	at Exception_Handling.Throw.Throw.checkAge(Throw.java:6)
-        //	at Exception_Handling.Throw.Throw.main(Throw.java:13)
+        //	at Exception_Handling.Throw.checkAge(Throw.java:6)
+        //	at Exception_Handling.Throw.main(Throw.java:13)
 
 
     }
