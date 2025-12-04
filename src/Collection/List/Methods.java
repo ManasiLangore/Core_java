@@ -36,5 +36,9 @@ public class Methods {
         //it will tell the element is present in list or not
         System.out.println("is 20 present in list or not: "+numbers.contains(20));//false
 
+        //6)isEmpty
+        //it will return list is empty or not
+        System.out.println("List is empty or not: "+numbers.isEmpty());//false
+
     }
 }
